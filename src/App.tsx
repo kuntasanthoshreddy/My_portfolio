@@ -5,10 +5,26 @@ import {
 } from "lucide-react";
 
 const skills = [
-  { title: "Mobile", items: ["React Native", "JavaScript", "TypeScript", "React Navigation", "Redux"] },
+  {
+    title: "Mobile",
+    items: [
+      "React Native",
+      "JavaScript",
+      "TypeScript",
+      "React Navigation",
+      "Redux",
+      "Context API",
+      "Expo",
+      "Native Modules",
+      "Deep Linking",
+      "Push Notifications",
+      "Offline Storage",
+      "In-App Payments",
+    ],
+  },
   { title: "Web", items: ["React.js", "TypeScript", "HTML", "CSS", "Responsive UI"] },
   { title: "Integrations", items: ["Firebase", "REST APIs", "Push Notifications", "Payment Gateways", "App Store Releases"] },
-  { title: "Tools & Platforms", items: ["Git", "Android Studio", "Xcode", "Play Console", "App Store Connect"] },
+  { title: "Tools & Platforms", items: ["Core Java", "Git", "Android Studio", "Xcode", "Play Console", "App Store Connect"] },
 ];
 
 const projects = [
